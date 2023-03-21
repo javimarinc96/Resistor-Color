@@ -1,3 +1,4 @@
+![resistor-color](https://user-images.githubusercontent.com/44240533/226492329-76ff73b4-0ef2-474c-8a9e-993b05c8f4c7.svg)
 # Resistor Color
 
 Welcome to Resistor Color on Exercism's Java Track.
